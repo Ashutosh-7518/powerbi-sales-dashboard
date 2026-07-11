@@ -1,4 +1,6 @@
 #Project Overview
+![Dashboard Screenshot] (Dashboard.jpg.png) 
+
 This project is an interactive Sales Dashboard built using Power BI to anlyze sales performance and business insight.
 
 #Dashboard Features
